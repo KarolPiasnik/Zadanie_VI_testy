@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "cypress": "^12.17.3"
+  },
+  "scripts": {
+    "cypress:open": "cypress open"
   }
 }
